@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" version="1.0.0.0" id="bsit3bapp">
+
+<name>BSIT 3B</name>
+<author>BSIT 3B</author>
+<icon src="icon.png" />
+<content src="index.html" />
+<feature id="blackberry.app">
+	<param name="orientation" value="portrait" />
+</feature>
+</widget>
